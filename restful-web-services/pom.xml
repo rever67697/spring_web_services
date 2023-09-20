@@ -14,7 +14,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.0.0-M2</version> <!-- Changed from 2.5.0 -->
+		<version>3.0.9</version> <!-- Changed from 2.5.0 -->
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 
@@ -79,7 +79,7 @@
 		<dependency>
 			<groupId>org.springdoc</groupId>
 			<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId> <!-- Changed from springdoc-openapi-ui -->
-			<version>2.0.0-SNAPSHOT</version> <!-- Changed from 1.6.8 -->
+			<version>2.0.2</version> <!-- Changed from 1.6.8 -->
 		</dependency>
 
 		<dependency>
