@@ -1,0 +1,45 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::             (v3.0.0-M3)
+
+2023-09-19T02:38:07.540Z  INFO 13539 --- [           main] c.i.s.l.LearnSpringBootApplication       : Starting LearnSpringBootApplication v0.0.1-SNAPSHOT using Java 17.0.8 on codespaces-bc92a0 with PID 13539 (/workspaces/spring-web-services/springboot-in-10-steps/target/learn-spring-boot-0.0.1-SNAPSHOT.jar started by root in /workspaces/spring-web-services/springboot-in-10-steps)
+2023-09-19T02:38:07.548Z  INFO 13539 --- [           main] c.i.s.l.LearnSpringBootApplication       : The following 1 profile is active: "dev"
+2023-09-19T02:38:09.335Z  INFO 13539 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-09-19T02:38:09.345Z  INFO 13539 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-19T02:38:09.346Z  INFO 13539 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/10.0.21]
+2023-09-19T02:38:09.439Z  INFO 13539 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-09-19T02:38:09.443Z  INFO 13539 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1787 ms
+2023-09-19T02:38:10.270Z  INFO 13539 --- [           main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2023-09-19T02:38:10.326Z  INFO 13539 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-09-19T02:38:10.344Z  INFO 13539 --- [           main] c.i.s.l.LearnSpringBootApplication       : Started LearnSpringBootApplication in 3.828 seconds (process running for 4.403)
+2023-09-19T02:39:29.888Z  INFO 13539 --- [nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-09-19T02:39:29.889Z  INFO 13539 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-09-19T02:39:29.891Z  INFO 13539 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::             (v3.0.0-M3)
+
+2023-09-19T02:43:31.460Z  INFO 17153 --- [           main] c.i.s.l.LearnSpringBootApplication       : Starting LearnSpringBootApplication v0.0.1-SNAPSHOT using Java 17.0.8 on codespaces-bc92a0 with PID 17153 (/workspaces/spring-web-services/springboot-in-10-steps/target/learn-spring-boot-0.0.1-SNAPSHOT.jar started by root in /workspaces/spring-web-services/springboot-in-10-steps)
+2023-09-19T02:43:31.471Z  INFO 17153 --- [           main] c.i.s.l.LearnSpringBootApplication       : The following 1 profile is active: "dev"
+2023-09-19T02:43:33.697Z  INFO 17153 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-09-19T02:43:33.707Z  INFO 17153 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-09-19T02:43:33.708Z  INFO 17153 --- [           main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/10.0.21]
+2023-09-19T02:43:33.792Z  INFO 17153 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-09-19T02:43:33.796Z  INFO 17153 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2132 ms
+2023-09-19T02:43:35.460Z  INFO 17153 --- [           main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 2 endpoint(s) beneath base path '/actuator'
+2023-09-19T02:43:35.532Z  INFO 17153 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-09-19T02:43:35.551Z  INFO 17153 --- [           main] c.i.s.l.LearnSpringBootApplication       : Started LearnSpringBootApplication in 4.864 seconds (process running for 5.568)
+2023-09-19T02:43:53.519Z  INFO 17153 --- [nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-09-19T02:43:53.520Z  INFO 17153 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2023-09-19T02:43:53.522Z  INFO 17153 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2023-09-19T02:43:58.364Z  INFO 17153 --- [io-8080-exec-10] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 291 ms
